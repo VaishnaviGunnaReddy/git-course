@@ -1,1 +1,8 @@
 Hello World!!
+takes input user
+
+
+
+add the vaules
+
+sumbit data to the datsabase   
